@@ -1,1 +1,1 @@
-web: gunicorn logs.wsgi --log-file-
+web: gunicorn gymmie-test-master.wsgi --log-file
